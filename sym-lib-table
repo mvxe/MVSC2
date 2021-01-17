@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 2020-12-14_03-10-13)(type Legacy)(uri ${KIPRJMOD}/ul_TMC2208LAT/2020-12-14_03-10-13.lib)(options "")(descr ""))
+  (lib (name MVSC2-rescue)(type Legacy)(uri ${KIPRJMOD}/MVSC2-rescue.lib)(options "")(descr ""))
+)
