@@ -21,6 +21,7 @@ F 0 "J1" H 1957 4667 50  0000 C CNN
 F 1 "USB_C-SIGNAL" H 1957 4576 50  0000 C CNN
 F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 2000 3400 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 2000 3400 50  0001 C CNN
+F 4 "C165948" H 1850 3400 50  0001 C CNN "LCSC"
 	1    1850 3400
 	1    0    0    -1  
 $EndComp
