@@ -4,3 +4,4 @@
 *.drl
 *.csv
 *.xml
+*rescue.lib
